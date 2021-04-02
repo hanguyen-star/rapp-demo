@@ -1,35 +1,35 @@
 [
-    {
-      "id": "T005",
-      "name": "Cuong Test Team User 1",
-      "phoneNumber": "+47 1234 5678",
-      "email": "cnguyen@.global",
-      "role": "Operations",
-      "accessRights": "admin",
-      "password": "123",
-      "department": "Rapp Operations Department",
-      "title": " User"
-    },
-    {
-      "id": "T006",
-      "name": "Cuong Test Team User 2",
-      "phoneNumber": "+47 1234 5678",
-      "email": "cnguyen@.global",
-      "role": "Operations",
-      "accessRights": "admin",
-      "password": "123",
-      "department": "Rapp Operations Department",
-      "title": "Manager"
-    },
   {
-      "id": "T007",
-      "name": "Cuong Test Team User 3",
-      "phoneNumber": "+47 1234 5678",
-      "email": "cnguyen@.global",
-      "role": "Operations",
-      "accessRights": "admin",
-      "password": "123456",
-      "department": "Rapp Operations Department",
-      "title": "Head"
-    },
-  ]
+    "id": "T005",
+    "name": "Cuong Test Team User 1",
+    "phoneNumber": "+47 1234 5678",
+    "email": "cnguyen@.global",
+    "role": "Operations",
+    "accessRights": "admin",
+    "password": "123",
+    "department": "Rapp Operations Department",
+    "title": " User"
+  },
+  {
+    "id": "T006",
+    "name": "Cuong Test Team User 2",
+    "phoneNumber": "+47 1234 5678",
+    "email": "cnguyen@.global",
+    "role": "Operations",
+    "accessRights": "admin",
+    "password": "123",
+    "department": "Rapp Operations Department",
+    "title": "Manager"
+  },
+  {
+    "id": "T007",
+    "name": "Cuong Test Team User 3",
+    "phoneNumber": "+47 1234 5678",
+    "email": "cnguyen@.global",
+    "role": "Operations",
+    "accessRights": "admin",
+    "password": "123456",
+    "department": "Rapp Operations Department",
+    "title": "Head"
+  }
+]
