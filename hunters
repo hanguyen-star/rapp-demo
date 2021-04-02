@@ -1,0 +1,99 @@
+[
+  {
+    "fullName": "Ronald Richards",
+    "company": "Rapp",
+    "email": "s.nguyen@star.global",
+    "password": "123456789",
+    "phoneNumber": "+47 22 99 08 50",
+    "competencies": [
+      "Recharge",
+      "Clean",
+      "Repair"
+    ],
+    "id": "jDaSaHx"
+  },
+  {
+    "fullName": "Jerome Bell",
+    "company": "Rapp",
+    "email": "s.nguyen@star.global",
+    "password": "123456789",
+    "phoneNumber": "+47 22 99 08 50",
+    "competencies": [
+      "Recharge",
+      "Repair"
+    ],
+    "id": "jDaSaHy"
+  },
+  {
+    "fullName": "Kathryn Murphy",
+    "company": "Rapp",
+    "email": "s.nguyen@star.global",
+    "password": "123456789",
+    "phoneNumber": "+47 22 99 08 50",
+    "competencies": [
+      "Clean"
+    ],
+    "id": "jDaSaHz"
+  },
+  {
+    "fullName": "Arlene McCoy",
+    "company": "Rapp",
+    "email": "s.nguyen@star.global",
+    "password": "123456789",
+    "phoneNumber": "+47 22 99 08 50",
+    "competencies": [
+      "Clean"
+    ],
+    "id": "jDaSaH1"
+  },
+  {
+    "fullName": "Darrell Steward",
+    "company": "Rapp",
+    "email": "s.nguyen@star.global",
+    "password": "123456789",
+    "phoneNumber": "+47 22 99 08 50",
+    "competencies": [
+      "Recharge",
+      "Repair"
+    ],
+    "id": "jDaSaH2"
+  },
+  {
+    "fullName": "Albert Flores",
+    "company": "Rapp",
+    "email": "s.nguyen@star.global",
+    "password": "123456789",
+    "phoneNumber": "+47 22 99 08 50",
+    "competencies": [
+      "Recharge",
+      "Clean",
+      "Repair"
+    ],
+    "id": "jDaSaH3"
+  },
+  {
+    "fullName": "Savannah Nguyen",
+    "company": "Rapp",
+    "email": "s.nguyen@star.global",
+    "password": "123456789",
+    "phoneNumber": "+47 22 99 08 50",
+    "competencies": [
+      "Recharge",
+      "Repair"
+    ],
+    "id": "jDaSaHx"
+  },
+  {
+    "fullName": "Darlene Robertson",
+    "company": "Rapp",
+    "email": "s.nguyen@star.global",
+    "password": "123456789",
+    "phoneNumber": "+47 22 99 08 50",
+    "competencies": [
+      "Recharge",
+      "Clean",
+      "Repair"
+    ],
+    "id": "jDaSaH4"
+  }
+]
