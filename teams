@@ -1,35 +1,32 @@
 [
   {
     "id": "T005",
-    "name": "Cuong Test Team User 1",
+    "name": "Darlene Robertson",
     "phoneNumber": "+47 1234 5678",
-    "email": "cnguyen@.global",
-    "role": "Operations",
+    "email": "s.nguyen@.global",
     "accessRights": "admin",
     "password": "123",
-    "department": "Rapp Operations Department",
-    "title": " User"
+    "department": "Internal Operations Team",
+    "title": " Head of Department"
   },
   {
-    "id": "T006",
-    "name": "Cuong Test Team User 2",
+    "id": "T005",
+    "name": "Kathryn Murphy",
     "phoneNumber": "+47 1234 5678",
-    "email": "cnguyen@.global",
-    "role": "Operations",
+    "email": "s.nguyen@.global",
     "accessRights": "admin",
     "password": "123",
-    "department": "Rapp Operations Department",
-    "title": "Manager"
+    "department": "Internal Operations Team",
+    "title": " Head of Department"
   },
   {
-    "id": "T007",
-    "name": "Cuong Test Team User 3",
+    "id": "T005",
+    "name": "Ronald Richards",
     "phoneNumber": "+47 1234 5678",
-    "email": "cnguyen@.global",
-    "role": "Operations",
+    "email": "s.nguyen@.global",
     "accessRights": "admin",
-    "password": "123456",
-    "department": "Rapp Operations Department",
-    "title": "Head"
+    "password": "123",
+    "department": "Internal Operations Team",
+    "title": " Head of Department"
   }
 ]
