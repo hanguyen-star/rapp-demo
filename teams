@@ -5,7 +5,7 @@
     "phoneNumber": "+47 1234 5678",
     "email": "s.nguyen@.global",
     "accessRights": "admin",
-    "password": "123",
+    "password": "123456789",
     "department": "Internal Operations Team",
     "title": " Head of Department"
   },
@@ -14,8 +14,8 @@
     "name": "Kathryn Murphy",
     "phoneNumber": "+47 1234 5678",
     "email": "s.nguyen@.global",
-    "accessRights": "admin",
-    "password": "123",
+    "accessRights": "user",
+    "password": "123456789",
     "department": "Internal Operations Team",
     "title": " Head of Department"
   },
@@ -24,8 +24,8 @@
     "name": "Ronald Richards",
     "phoneNumber": "+47 1234 5678",
     "email": "s.nguyen@.global",
-    "accessRights": "admin",
-    "password": "123",
+    "accessRights": "user",
+    "password": "123456789",
     "department": "Internal Operations Team",
     "title": " Head of Department"
   }
