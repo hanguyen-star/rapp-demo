@@ -1,0 +1,20 @@
+[
+  {
+    "id": "ZTP000001",
+    "name": "No Ride",
+    "fillColor": "#ED5B56",
+    "strokeColor": "#ED5B56"
+  },
+  {
+    "id": "ZTP000002",
+    "name": "No Parking",
+    "fillColor": "#1976D2",
+    "strokeColor": "#1976D2"
+  },
+  {
+    "id": "ZTP000003",
+    "name": "Speed Limit",
+    "fillColor": "#FC9D10",
+    "strokeColor": "#FC9D10"
+  }
+]
