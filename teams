@@ -1,0 +1,32 @@
+[
+  {
+    "id": "T005",
+    "name": "Darlene Robertson",
+    "phoneNumber": "+47 1234 5678",
+    "email": "s.nguyen@.global",
+    "accessRights": "admin",
+    "password": "123456789",
+    "department": "Internal Operations Team",
+    "title": " Head of Department"
+  },
+  {
+    "id": "T006",
+    "name": "Kathryn Murphy",
+    "phoneNumber": "+47 1234 5678",
+    "email": "s.nguyen@.global",
+    "accessRights": "user",
+    "password": "123456789",
+    "department": "Internal Operations Team",
+    "title": " Head of Department"
+  },
+  {
+    "id": "T007",
+    "name": "Ronald Richards",
+    "phoneNumber": "+47 1234 5678",
+    "email": "s.nguyen@.global",
+    "accessRights": "user",
+    "password": "123456789",
+    "department": "Internal Operations Team",
+    "title": " Head of Department"
+  }
+]
