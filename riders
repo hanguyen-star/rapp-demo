@@ -1,0 +1,92 @@
+[
+    {
+      "id": "RID0001",
+      "name": "Rider 1",
+      "phone": "+23 78 12 63 87",
+      "ridingStatus": "Riding",
+      "latestRideStart": "2021-03-24T08:00:00",
+      "latestRideDuration": "0h 20m",
+      "wallet": "30 kr"
+    },
+    {
+      "id": "RID0002",
+      "name": "Rider 2",
+      "phone": "+23 78 12 63 87",
+      "ridingStatus": "Riding",
+      "latestRideStart": "2021-03-24T08:00:00",
+      "latestRideDuration": "0h 20m",
+      "wallet": "30 kr"
+    },
+    {
+      "id": "RID0003",
+      "name": "Rider 3",
+      "phone": "+23 78 12 63 87",
+      "ridingStatus": "Riding",
+      "latestRideStart": "2021-03-24T08:00:00",
+      "latestRideDuration": "0h 20m",
+      "wallet": "30 kr"
+    },
+    {
+      "id": "RID0004",
+      "name": "Rider 4",
+      "phone": "+23 78 12 63 87",
+      "ridingStatus": "Riding",
+      "latestRideStart": "2021-03-24T08:00:00",
+      "latestRideDuration": "0h 20m",
+      "wallet": "30 kr"
+    },
+    {
+      "id": "RID0005",
+      "name": "Rider 5",
+      "phone": "+23 78 12 63 87",
+      "ridingStatus": "Riding",
+      "latestRideStart": "2021-03-24T08:00:00",
+      "latestRideDuration": "0h 20m",
+      "wallet": "30 kr"
+    },
+    {
+      "id": "RID0006",
+      "name": "Rider 6",
+      "phone": "+23 78 12 63 87",
+      "ridingStatus": "Riding",
+      "latestRideStart": "2021-03-24T08:00:00",
+      "latestRideDuration": "0h 20m",
+      "wallet": "30 kr"
+    },
+    {
+      "id": "RID0007",
+      "name": "Rider 7",
+      "phone": "+23 78 12 63 87",
+      "ridingStatus": "Riding",
+      "latestRideStart": "2021-03-24T08:00:00",
+      "latestRideDuration": "0h 20m",
+      "wallet": "30 kr"
+    },
+    {
+      "id": "RID0008",
+      "name": "Rider 8",
+      "phone": "+23 78 12 63 87",
+      "ridingStatus": "Not active",
+      "latestRideStart": "2021-03-24T08:00:00",
+      "latestRideDuration": "0h 20m",
+      "wallet": "30 kr"
+    },
+    {
+      "id": "RID0009",
+      "name": "Rider 9",
+      "phone": "+23 78 12 63 87",
+      "ridingStatus": "Not active",
+      "latestRideStart": "2021-03-24T08:00:00",
+      "latestRideDuration": "0h 20m",
+      "wallet": "30 kr"
+    },
+    {
+      "id": "RID0010",
+      "name": "Rider 10",
+      "phone": "+23 78 12 63 87",
+      "ridingStatus": "Not active",
+      "latestRideStart": "2021-03-24T08:00:00",
+      "latestRideDuration": "0h 20m",
+      "wallet": "30 kr"
+    }
+  ]
