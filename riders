@@ -6,7 +6,10 @@
       "ridingStatus": "Riding",
       "latestRideStart": "2021-03-24T08:00:00",
       "latestRideDuration": "0h 20m",
-      "wallet": "30 kr"
+      "wallet": "30 kr",
+      "email": "rider1@gmail.com",
+      "bonusProgram": "Daily pass",
+      "subscriptionPlan": "Monthly"
     },
     {
       "id": "RID0002",
@@ -15,7 +18,10 @@
       "ridingStatus": "Riding",
       "latestRideStart": "2021-03-24T08:00:00",
       "latestRideDuration": "0h 20m",
-      "wallet": "30 kr"
+      "wallet": "30 kr",
+      "email": "rider2@gmail.com",
+      "bonusProgram": "Daily pass",
+      "subscriptionPlan": "Monthly"
     },
     {
       "id": "RID0003",
@@ -24,7 +30,10 @@
       "ridingStatus": "Riding",
       "latestRideStart": "2021-03-24T08:00:00",
       "latestRideDuration": "0h 20m",
-      "wallet": "30 kr"
+      "wallet": "30 kr",
+      "email": "rider3@gmail.com",
+      "bonusProgram": "Daily pass",
+      "subscriptionPlan": "Monthly"
     },
     {
       "id": "RID0004",
@@ -33,7 +42,10 @@
       "ridingStatus": "Riding",
       "latestRideStart": "2021-03-24T08:00:00",
       "latestRideDuration": "0h 20m",
-      "wallet": "30 kr"
+      "wallet": "30 kr",
+      "email": "rider4@gmail.com",
+      "bonusProgram": "Daily pass",
+      "subscriptionPlan": "Monthly"
     },
     {
       "id": "RID0005",
@@ -42,7 +54,10 @@
       "ridingStatus": "Riding",
       "latestRideStart": "2021-03-24T08:00:00",
       "latestRideDuration": "0h 20m",
-      "wallet": "30 kr"
+      "wallet": "30 kr",
+      "email": "rider5@gmail.com",
+      "bonusProgram": "Daily pass",
+      "subscriptionPlan": "Monthly"
     },
     {
       "id": "RID0006",
@@ -51,7 +66,10 @@
       "ridingStatus": "Riding",
       "latestRideStart": "2021-03-24T08:00:00",
       "latestRideDuration": "0h 20m",
-      "wallet": "30 kr"
+      "wallet": "30 kr",
+      "email": "rider6@gmail.com",
+      "bonusProgram": "Daily pass",
+      "subscriptionPlan": "Monthly"
     },
     {
       "id": "RID0007",
@@ -60,7 +78,10 @@
       "ridingStatus": "Riding",
       "latestRideStart": "2021-03-24T08:00:00",
       "latestRideDuration": "0h 20m",
-      "wallet": "30 kr"
+      "wallet": "30 kr",
+      "email": "rider7@gmail.com",
+      "bonusProgram": "Daily pass",
+      "subscriptionPlan": "Monthly"
     },
     {
       "id": "RID0008",
@@ -69,7 +90,10 @@
       "ridingStatus": "Not active",
       "latestRideStart": "2021-03-24T08:00:00",
       "latestRideDuration": "0h 20m",
-      "wallet": "30 kr"
+      "wallet": "30 kr",
+      "email": "rider8@gmail.com",
+      "bonusProgram": "Daily pass",
+      "subscriptionPlan": "Monthly"
     },
     {
       "id": "RID0009",
@@ -78,7 +102,10 @@
       "ridingStatus": "Not active",
       "latestRideStart": "2021-03-24T08:00:00",
       "latestRideDuration": "0h 20m",
-      "wallet": "30 kr"
+      "wallet": "30 kr",
+      "email": "rider9@gmail.com",
+      "bonusProgram": "Daily pass",
+      "subscriptionPlan": "Monthly"
     },
     {
       "id": "RID0010",
@@ -87,6 +114,9 @@
       "ridingStatus": "Not active",
       "latestRideStart": "2021-03-24T08:00:00",
       "latestRideDuration": "0h 20m",
-      "wallet": "30 kr"
+      "wallet": "30 kr",
+      "email": "rider10@gmail.com",
+      "bonusProgram": "Daily pass",
+      "subscriptionPlan": "Monthly"
     }
   ]
