@@ -1,0 +1,148 @@
+[
+    {
+      "id": "RIDHISTORY0001",
+      "rideCompleted": "13 Jul 2021, 18:15",
+      "city": "Oslo",
+      "scotterId": "323",
+      "ridingTime": "0h 20m",
+      "distance": "6.2 km",
+      "paymentId": "17892",
+      "amount": "30 kr",
+      "status": "Capture",
+      "rating": {
+        "star": 5
+      }
+    },
+    {
+      "id": "RIDHISTORY0002",
+      "rideCompleted": "13 Jul 2021, 18:15",
+      "city": "Oslo",
+      "scotterId": "323",
+      "ridingTime": "0h 20m",
+      "distance": "6.2 km",
+      "paymentId": "17892",
+      "amount": "30 kr",
+      "status": "Capture",
+      "rating": {
+        "star": 5,
+        "comment": "The ride was great, but scooter was dirty"
+      }
+    },
+    {
+      "id": "RIDHISTORY0003",
+      "rideCompleted": "13 Jul 2021, 18:15",
+      "city": "Oslo",
+      "scotterId": "323",
+      "ridingTime": "0h 20m",
+      "distance": "6.2 km",
+      "paymentId": "17892",
+      "amount": "30 kr",
+      "status": "Capture",
+      "rating": {
+        "star": 5
+      }
+    },
+    {
+      "id": "RIDHISTORY0004",
+      "rideCompleted": "13 Jul 2021, 18:15",
+      "city": "Oslo",
+      "scotterId": "323",
+      "ridingTime": "0h 20m",
+      "distance": "6.2 km",
+      "paymentId": "17892",
+      "amount": "30 kr",
+      "status": "Capture",
+      "rating": {
+        "star": 5,
+        "comment": "The ride was great, but scooter was dirty"
+      }
+    },
+    {
+      "id": "RIDHISTORY0005",
+      "rideCompleted": "13 Jul 2021, 18:15",
+      "city": "Oslo",
+      "scotterId": "323",
+      "ridingTime": "0h 20m",
+      "distance": "6.2 km",
+      "paymentId": "17892",
+      "amount": "30 kr",
+      "status": "Capture",
+      "rating": {
+        "star": 5,
+        "comment": "The ride was great, but scooter was dirty"
+      }
+    },
+    {
+      "id": "RIDHISTORY0006",
+      "rideCompleted": "13 Jul 2021, 18:15",
+      "city": "Oslo",
+      "scotterId": "323",
+      "ridingTime": "0h 20m",
+      "distance": "6.2 km",
+      "paymentId": "17892",
+      "amount": "30 kr",
+      "status": "Capture",
+      "rating": {
+        "star": 5,
+        "comment": "The ride was great, but scooter was dirty"
+      }
+    },
+    {
+      "id": "RIDHISTORY0007",
+      "rideCompleted": "13 Jul 2021, 18:15",
+      "city": "Oslo",
+      "scotterId": "323",
+      "ridingTime": "0h 20m",
+      "distance": "6.2 km",
+      "paymentId": "17892",
+      "amount": "30 kr",
+      "status": "Capture",
+      "rating": {
+        "star": 5,
+        "comment": "The ride was great, but scooter was dirty"
+      }
+    },
+    {
+      "id": "RIDHISTORY0008",
+      "rideCompleted": "13 Jul 2021, 18:15",
+      "city": "Oslo",
+      "scotterId": "323",
+      "ridingTime": "0h 20m",
+      "distance": "6.2 km",
+      "paymentId": "17892",
+      "amount": "30 kr",
+      "status": "Capture",
+      "rating": {
+        "star": 5
+      }
+    },
+    {
+      "id": "RIDHISTORY0009",
+      "rideCompleted": "13 Jul 2021, 18:15",
+      "city": "Oslo",
+      "scotterId": "323",
+      "ridingTime": "0h 20m",
+      "distance": "6.2 km",
+      "paymentId": "17892",
+      "amount": "30 kr",
+      "status": "Capture",
+      "rating": {
+        "star": 5,
+        "comment": "The ride was great, but scooter was dirty"
+      }
+    },
+    {
+      "id": "RIDHISTORY0010",
+      "rideCompleted": "13 Jul 2021, 18:15",
+      "city": "Oslo",
+      "scotterId": "323",
+      "ridingTime": "0h 20m",
+      "distance": "6.2 km",
+      "paymentId": "17892",
+      "amount": "30 kr",
+      "status": "Capture",
+      "rating": {
+        "star": 5
+      }
+    }
+  ]
