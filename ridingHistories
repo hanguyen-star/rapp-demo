@@ -9,8 +9,9 @@
       "paymentId": "17892",
       "amount": "30 kr",
       "status": "Capture",
-      "rating": 5,
-      "comment": "The ride was great, but scooter was dirty"
+      "rating": {
+        "star": 5
+      }
     },
     {
       "id": "RIDHISTORY0002",
@@ -22,8 +23,10 @@
       "paymentId": "17892",
       "amount": "30 kr",
       "status": "Capture",
-      "rating": 5,
-      "comment": "The ride was great, but scooter was dirty"
+      "rating": {
+        "star": 5,
+        "comment": "The ride was great, but scooter was dirty"
+      }
     },
     {
       "id": "RIDHISTORY0003",
@@ -35,8 +38,9 @@
       "paymentId": "17892",
       "amount": "30 kr",
       "status": "Capture",
-      "rating": 5,
-      "comment": "The ride was great, but scooter was dirty"
+      "rating": {
+        "star": 5
+      }
     },
     {
       "id": "RIDHISTORY0004",
@@ -48,8 +52,10 @@
       "paymentId": "17892",
       "amount": "30 kr",
       "status": "Capture",
-      "rating": 5,
-      "comment": "The ride was great, but scooter was dirty"
+      "rating": {
+        "star": 5,
+        "comment": "The ride was great, but scooter was dirty"
+      }
     },
     {
       "id": "RIDHISTORY0005",
@@ -61,8 +67,10 @@
       "paymentId": "17892",
       "amount": "30 kr",
       "status": "Capture",
-      "rating": 5,
-      "comment": "The ride was great, but scooter was dirty"
+      "rating": {
+        "star": 5,
+        "comment": "The ride was great, but scooter was dirty"
+      }
     },
     {
       "id": "RIDHISTORY0006",
@@ -74,8 +82,10 @@
       "paymentId": "17892",
       "amount": "30 kr",
       "status": "Capture",
-      "rating": 5,
-      "comment": "The ride was great, but scooter was dirty"
+      "rating": {
+        "star": 5,
+        "comment": "The ride was great, but scooter was dirty"
+      }
     },
     {
       "id": "RIDHISTORY0007",
@@ -87,8 +97,10 @@
       "paymentId": "17892",
       "amount": "30 kr",
       "status": "Capture",
-      "rating": 5,
-      "comment": "The ride was great, but scooter was dirty"
+      "rating": {
+        "star": 5,
+        "comment": "The ride was great, but scooter was dirty"
+      }
     },
     {
       "id": "RIDHISTORY0008",
@@ -100,8 +112,9 @@
       "paymentId": "17892",
       "amount": "30 kr",
       "status": "Capture",
-      "rating": 5,
-      "comment": "The ride was great, but scooter was dirty"
+      "rating": {
+        "star": 5
+      }
     },
     {
       "id": "RIDHISTORY0009",
@@ -113,8 +126,10 @@
       "paymentId": "17892",
       "amount": "30 kr",
       "status": "Capture",
-      "rating": 5,
-      "comment": "The ride was great, but scooter was dirty"
+      "rating": {
+        "star": 5,
+        "comment": "The ride was great, but scooter was dirty"
+      }
     },
     {
       "id": "RIDHISTORY0010",
@@ -126,7 +141,8 @@
       "paymentId": "17892",
       "amount": "30 kr",
       "status": "Capture",
-      "rating": 5,
-      "comment": "The ride was great, but scooter was dirty"
+      "rating": {
+        "star": 5
+      }
     }
   ]
