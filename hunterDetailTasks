@@ -1,0 +1,52 @@
+[
+    {
+      "id": "TSK000001",
+      "city": "Oslo",
+      "location": "Brugata 17A, 0186",
+      "priority": "High",
+      "scooterId": "1234",
+      "lockStatus": "Unlocked",
+      "battery": "70%",
+      "type": "Repark"
+    },
+    {
+      "id": "TSK000002",
+      "city": "Oslo",
+      "location": "Brugata 17A, 0186",
+      "priority": "Medium",
+      "scooterId": "1234",
+      "lockStatus": "Locked",
+      "battery": "70%",
+      "type": "Swap battery"
+    },
+    {
+      "id": "TSK000003",
+      "city": "Oslo",
+      "location": "Brugata 17A, 0186",
+      "priority": "High",
+      "scooterId": "1234",
+      "lockStatus": "Locked",
+      "battery": "70%",
+      "type": "Swap battery"
+    },
+    {
+      "id": "TSK000004",
+      "city": "Oslo",
+      "location": "Brugata 17A, 0186",
+      "priority": "High",
+      "scooterId": "1234",
+      "lockStatus": "Unlocked",
+      "battery": "70%",
+      "type": "Repair"
+    },
+    {
+      "id": "TSK000005",
+      "city": "Oslo",
+      "location": "Brugata 17A, 0186",
+      "priority": "Medium",
+      "scooterId": "1234",
+      "lockStatus": "Unlocked",
+      "battery": "70%",
+      "type": "Repair"
+    }
+  ]
